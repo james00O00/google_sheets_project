@@ -34,4 +34,4 @@ The second new tab will be named "Below 60 or above 90". This second tab will sh
 
 Generate a list of each different teacher name, automatically with a formula (remove the duplicates). Make sure that the formula also sorts this list. Put the text label / header "Teachers" above the list of teachers.
 
-To the right of each teacher name, display how many students that each teacher has on their roster / on the report (Automatically with formulas). Put the text label / header "Students per teacher" above these calculations.
+To the right of each teacher name, display how many students that each teacher has on their roster / on the report (Automatically with formulas). Put the text label / header "Students per teacher" above these calculations."# google_sheets_project" 
